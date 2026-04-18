@@ -1,24 +1,57 @@
-# Notes Management App using Flutter
+# 📝 Notes Management App (Flutter)
 
-A simple Flutter app for creating and managing notes.
+A simple and clean Notes Management App built using Flutter.  
+This app allows users to create, edit, and manage notes easily.
+
+---
 
 ## 📱 Screenshots
 
-### Home Screen
-![Home](lib/assets/images/home.jpg)
+<p align="center">
+  <img src="lib/assets/images/home.jpg" width="30%" />
+  <img src="lib/assets/images/notes.jpg" width="30%" />
+  <img src="lib/assets/images/home.jpg" width="30%" />
+</p>
 
-### Notes Screen
-![Notes](lib/assets/images/notes.jpg)
+<p align="center">
+  <b>Home Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Notes Screen</b> &nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Details Screen</b>
+</p>
+
+---
 
 ## ✨ Features
-- Add new notes
-- View notes in a list
-- Edit existing notes
-- Delete notes
+
+- ➕ Add new notes  
+- 📋 View notes in a list  
+- ✏️ Edit existing notes  
+- 🗑️ Delete notes  
+
+---
 
 ## 🛠 Tech Stack
-- Flutter
-- Dart
+
+- Flutter  
+- Dart  
+
+---
 
 ## 📖 Description
-This project is a basic Notes Management App built using Flutter. It allows users to add, view, edit, and delete notes. The app was created to practice CRUD (Create, Read, Update, Delete) operations, navigation between screens, ListView usage, and UI updates using setState.
+
+This project is a beginner-friendly Notes Management App built using Flutter.  
+It demonstrates core concepts like:
+
+- CRUD operations (Create, Read, Update, Delete)  
+- Navigation between screens  
+- State management using `setState`  
+- Dynamic UI updates  
+- ListView implementation  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
